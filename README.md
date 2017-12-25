@@ -8,6 +8,6 @@ This Python3 code can be used to check if a given entity is a Person or not. It 
 
 Detremines Domain of a given property on DbPedia.
 
-#RangeCheck.java
+# RangeCheck.java
 
 Determines Range of a given property on DbPedia.
